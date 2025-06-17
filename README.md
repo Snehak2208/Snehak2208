@@ -6,6 +6,7 @@
                -webkit-background-clip: text; 
                -webkit-text-fill-color: transparent; 
                font-weight: bold; 
+                color: blue;
                text-shadow: 2px 2px 6px rgba(255, 44, 85, 0.2); 
                letter-spacing: 2px;">
     SNEHA
@@ -62,13 +63,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo" />
 </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Snehak2208/Snehak2208/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Snehak2208/Snehak2208/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Snehak2208/Snehak2208/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
